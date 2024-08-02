@@ -1,4 +1,4 @@
-Spiral Bot
+**Spiral Bot**
 
 TODO:
 - Sign in to server by clicking emoji (or button!)
